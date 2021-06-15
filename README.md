@@ -18,10 +18,9 @@
     
 Knowhow:
     
-Software / Hardware Developer
-Memory lane before 1995
-
-1995
+Software / Hardware Developer<br/>
+<br/>
+1995<br/>
 Software ASM 80C31
 Software Turbopascal DOS
 Software borland c++ DOS
