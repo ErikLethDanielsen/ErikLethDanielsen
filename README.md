@@ -16,10 +16,11 @@
     30/04-2012: Last working day, that was 15 years in the same company, then something new happens :-)
     10/05-2012: Founded MELDCO electronics aps
     
+<pre>
 Knowhow:
     
-Software / Hardware Developer<br/>
-<br/>
+Software / Hardware Developer
+
 1995<br/>
 Software ASM 80C31
 Software Turbopascal DOS
@@ -137,3 +138,4 @@ Node.js Express EJS Session Sqlite3 PM2 Certbot
 Qt Creator
 FreeCAD
 STM32CUBE IDE 
+</pre>
